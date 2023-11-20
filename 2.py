@@ -6,3 +6,5 @@ if(n%2 == 0):
     print("Четное")
 else:
     print("Нечетное")
+    
+print("File for commit")
